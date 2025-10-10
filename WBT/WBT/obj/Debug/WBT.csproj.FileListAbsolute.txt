@@ -1,0 +1,16 @@
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\WBT.exe.config
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\WBT.exe
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\WBT.pdb
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.csproj.AssemblyReference.cache
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.Form1.resources
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.Properties.Resources.resources
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.csproj.GenerateResource.cache
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.csproj.CoreCompileInputs.cache
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.exe
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.pdb
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.exe.config
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\MaterialDesignColors.dll
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\z3n\Desktop\WBT\WBT\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\z3n\Desktop\WBT\WBT\obj\Debug\WBT.csproj.Up2Date
