@@ -1,0 +1,15 @@
+C:\Users\z3n\Desktop\main\main\bin\Release\WBT.exe.config
+C:\Users\z3n\Desktop\main\main\bin\Release\WBT.exe
+C:\Users\z3n\Desktop\main\main\bin\Release\WBT.pdb
+C:\Users\z3n\Desktop\main\main\obj\Release\main.csproj.AssemblyReference.cache
+C:\Users\z3n\Desktop\main\main\obj\Release\MainWindow.baml
+C:\Users\z3n\Desktop\main\main\obj\Release\MainWindow.g.cs
+C:\Users\z3n\Desktop\main\main\obj\Release\App.g.cs
+C:\Users\z3n\Desktop\main\main\obj\Release\WBT_MarkupCompile.cache
+C:\Users\z3n\Desktop\main\main\obj\Release\WBT.g.resources
+C:\Users\z3n\Desktop\main\main\obj\Release\WBT.Properties.Resources.resources
+C:\Users\z3n\Desktop\main\main\obj\Release\main.csproj.GenerateResource.cache
+C:\Users\z3n\Desktop\main\main\obj\Release\main.csproj.CoreCompileInputs.cache
+C:\Users\z3n\Desktop\main\main\obj\Release\WBT.exe
+C:\Users\z3n\Desktop\main\main\obj\Release\WBT.pdb
+C:\Users\z3n\Desktop\main\main\obj\Release\WBT.exe.config
